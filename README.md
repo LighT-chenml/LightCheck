@@ -1,3 +1,10 @@
+# LightCheck
+This is an open source repository for our paper in [ICCD 2023](https://www.iccd-conf.com/Home.html)
+
+> **A Cost-Efficient Failure-Tolerant Scheme for Distributed DNN Training**
+> 
+> Menglei Chen, Yu Hua, Rong Bai, Jianming Huang. *Huazhong University of Science and Technology*
+
 ## Evaluation Envirionment
 We use 3 servers for evaluation, the detailed information of the server:
 * 2 \* 26-core Intel Xeon Gold 6230R CPUs, 1 Tesla V100 GPU
